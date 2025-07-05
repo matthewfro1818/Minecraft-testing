@@ -1,0 +1,2 @@
+This contains all of the mobs found in this pack. It contains the following morphs, in the order you can find them in the settings:
+Eevee, Ender Dragon, Enderman, Endermite, Evoker, Cod, Pufferfish (Small), Pufferfish (Normal), Pufferfish (Large), Arctic Fox, Fox, Flareon, Fennekin, Cold Frog, Temperate Frog, Warm Frog

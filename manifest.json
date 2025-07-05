@@ -1,0 +1,100 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Morphing Texturepack, Letters E-F",
+    "description": "Use the settings to switch between animals",
+    "version": [1, 0, 0],
+    "uuid": "c3703ca4-383e-4381-b522-eaaf24e0339a",
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "description": "",
+      "version": [1, 0, 0],
+      "uuid": "e804824b-2d21-4c5e-8527-641dd6d22d58"
+    }
+  ],
+  "subpacks": [
+    {
+      "folder_name": "enderdragon",
+      "name": "Ender Dragon",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "eevee",
+      "name": "Eevee",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "enderman",
+      "name": "Enderman",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "endermite",
+      "name": "Endermite",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "evoker",
+      "name": "Evoker",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "fish",
+      "name": "Cod",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "pufferfish_small",
+      "name": "Small Pufferfish",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "pufferfish_normal",
+      "name": "Normal Pufferfish",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "pufferfish_large",
+      "name": "Large Pufferfish",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "arcticfox",
+      "name": "Arctic Fox",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "fox",
+      "name": "Fox",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "flareon",
+      "name": "Flareon",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "fennekin",
+      "name": "Fennekin",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "coldforg",
+      "name": "Cold Frog",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "temperatefrog",
+      "name": "Temperate Frog",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "warmfrog",
+      "name": "Warm Frog",
+      "memory_tier": 1
+    }
+  ]
+}
