@@ -1,0 +1,38 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:client_entity": {
+        "description": {
+            "identifier": "minecraft:player",
+            "materials": {
+                "default": "entity_alphatest"
+            },
+            "textures": {
+                "default": "textures/entity/0133_eevee/eevee",
+                "cape": "textures/entity/cape_invisible"
+            },
+            "geometry": {
+                "default": "geometry.eevee",
+                "cape": "geometry.cape"
+            },
+            "scripts": {
+                "animate": [
+                    "pose"
+                ]
+            },
+            "animations": {
+                "pose": "controller.animation.eevee.pose",
+                "ground_idle": "animation.eevee.ground_idle",
+                "ground_walk": "animation.eevee.ground_walk",
+                "special_attack": "animation.eevee.special_attack",
+                "blink": "animation.eevee.blink",
+                "cry": "animation.eevee.cry"
+            },
+            "render_controllers": [
+                "controller.render.agent"
+            ],
+            "spawn_egg": {
+                "texture": "0133_eevee_spawn_egg"
+            }
+        }
+    }
+}
