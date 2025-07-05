@@ -4,7 +4,7 @@
         "description": {
             "identifier": "minecraft:player",
             "materials": {
-                "default": "{
+                "default": "entity_alphatest"
     "format_version": "1.10.0",
     "minecraft:client_entity": {
         "description": {
