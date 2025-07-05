@@ -1,0 +1,41 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:client_entity": {
+        "description": {
+            "identifier": "minecraft:player",
+            "materials": {
+                "default": "{
+    "format_version": "1.10.0",
+    "minecraft:client_entity": {
+        "description": {
+            "identifier": "minecraft:player",
+            "materials": {
+                "default": "entity_alphatest"
+            },
+            "textures": {
+                "default": "textures/entity/riolu",
+                "cape": "textures/entity/cape_invisible"
+            },
+            "geometry": {
+                "default": "geometry.riolu",
+                "cape": "geometry.cape"
+            },
+            "scripts": {
+                "animate": [
+                    "pose"
+                ]
+            },
+            "animations": {
+                "pose": "controller.animation.riolu.pose",
+                "ground_idle": "animation.riolu.ground_idle",
+                "ground_walk": "animation.riolu.ground_walk",
+            },
+            "render_controllers": [
+                "controller.render.agent"
+            ],
+            "spawn_egg": {
+                "texture": "0133_eevee_spawn_egg"
+            }
+        }
+    }
+}
