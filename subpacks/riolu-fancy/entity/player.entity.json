@@ -5,13 +5,19 @@
             "identifier": "minecraft:player",
             "materials": {
                 "default": "entity_alphatest"
+    "format_version": "1.10.0",
+    "minecraft:client_entity": {
+        "description": {
+            "identifier": "minecraft:player",
+            "materials": {
+                "default": "entity_alphatest"
             },
             "textures": {
-                "default": "textures/entity/0133_eevee/eevee",
+                "default": "textures/entity/riolu-fancy",
                 "cape": "textures/entity/cape_invisible"
             },
             "geometry": {
-                "default": "geometry.eevee",
+                "default": "geometry.riolu",
                 "cape": "geometry.cape"
             },
             "scripts": {
@@ -20,12 +26,9 @@
                 ]
             },
             "animations": {
-                "pose": "controller.animation.eevee.pose",
-                "ground_idle": "animation.eevee.ground_idle",
-                "ground_walk": "animation.eevee.ground_walk",
-                "special_attack": "animation.eevee.special_attack",
-                "blink": "animation.eevee.blink",
-                "cry": "animation.eevee.cry"
+                "pose": "controller.animation.riolu.pose",
+                "ground_idle": "animation.riolu.ground_idle",
+                "ground_walk": "animation.riolu.ground_walk",
             },
             "render_controllers": [
                 "controller.render.agent"
